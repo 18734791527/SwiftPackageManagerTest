@@ -1,2 +1,0 @@
-# SwiftPackageManagerTest
-测试
